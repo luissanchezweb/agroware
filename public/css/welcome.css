@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/vacas.jpg");
+    background-size: cover;
+}
+
+.funciones{
+    background-color: black;
+    opacity: 0.8;
+}
+
+
